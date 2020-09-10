@@ -1,5 +1,5 @@
 # data-service-engineering
 
-implemented a flask app with CRUD functionality
+project 1 - implemented a flask app with CRUD functionality
 
-developed a machine learning model to predict movie revenue and rating using metadata
+project 2 - developed a machine learning model to predict movie revenue and rating using metadata
